@@ -1,0 +1,17 @@
+C:\Users\naren\source\repos\MidAtlanticTours\bin\Debug\net6.0-windows\MidAtlanticTours.exe
+C:\Users\naren\source\repos\MidAtlanticTours\bin\Debug\net6.0-windows\MidAtlanticTours.deps.json
+C:\Users\naren\source\repos\MidAtlanticTours\bin\Debug\net6.0-windows\MidAtlanticTours.runtimeconfig.json
+C:\Users\naren\source\repos\MidAtlanticTours\bin\Debug\net6.0-windows\MidAtlanticTours.dll
+C:\Users\naren\source\repos\MidAtlanticTours\bin\Debug\net6.0-windows\MidAtlanticTours.pdb
+C:\Users\naren\source\repos\MidAtlanticTours\obj\Debug\net6.0-windows\MidAtlanticTours.Form1.resources
+C:\Users\naren\source\repos\MidAtlanticTours\obj\Debug\net6.0-windows\MidAtlanticTours.Properties.Resources.resources
+C:\Users\naren\source\repos\MidAtlanticTours\obj\Debug\net6.0-windows\MidAtlanticTours.csproj.GenerateResource.cache
+C:\Users\naren\source\repos\MidAtlanticTours\obj\Debug\net6.0-windows\MidAtlanticTours.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\naren\source\repos\MidAtlanticTours\obj\Debug\net6.0-windows\MidAtlanticTours.AssemblyInfoInputs.cache
+C:\Users\naren\source\repos\MidAtlanticTours\obj\Debug\net6.0-windows\MidAtlanticTours.AssemblyInfo.cs
+C:\Users\naren\source\repos\MidAtlanticTours\obj\Debug\net6.0-windows\MidAtlanticTours.csproj.CoreCompileInputs.cache
+C:\Users\naren\source\repos\MidAtlanticTours\obj\Debug\net6.0-windows\MidAtlanticTours.dll
+C:\Users\naren\source\repos\MidAtlanticTours\obj\Debug\net6.0-windows\refint\MidAtlanticTours.dll
+C:\Users\naren\source\repos\MidAtlanticTours\obj\Debug\net6.0-windows\MidAtlanticTours.pdb
+C:\Users\naren\source\repos\MidAtlanticTours\obj\Debug\net6.0-windows\MidAtlanticTours.genruntimeconfig.cache
+C:\Users\naren\source\repos\MidAtlanticTours\obj\Debug\net6.0-windows\ref\MidAtlanticTours.dll
