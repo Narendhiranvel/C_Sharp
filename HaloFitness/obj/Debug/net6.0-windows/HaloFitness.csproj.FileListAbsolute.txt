@@ -1,0 +1,17 @@
+C:\Users\naren\source\repos\HaloFitness\bin\Debug\net6.0-windows\HaloFitness.exe
+C:\Users\naren\source\repos\HaloFitness\bin\Debug\net6.0-windows\HaloFitness.deps.json
+C:\Users\naren\source\repos\HaloFitness\bin\Debug\net6.0-windows\HaloFitness.runtimeconfig.json
+C:\Users\naren\source\repos\HaloFitness\bin\Debug\net6.0-windows\HaloFitness.dll
+C:\Users\naren\source\repos\HaloFitness\bin\Debug\net6.0-windows\HaloFitness.pdb
+C:\Users\naren\source\repos\HaloFitness\obj\Debug\net6.0-windows\HaloFitness.Form1.resources
+C:\Users\naren\source\repos\HaloFitness\obj\Debug\net6.0-windows\HaloFitness.Properties.Resources.resources
+C:\Users\naren\source\repos\HaloFitness\obj\Debug\net6.0-windows\HaloFitness.csproj.GenerateResource.cache
+C:\Users\naren\source\repos\HaloFitness\obj\Debug\net6.0-windows\HaloFitness.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\naren\source\repos\HaloFitness\obj\Debug\net6.0-windows\HaloFitness.AssemblyInfoInputs.cache
+C:\Users\naren\source\repos\HaloFitness\obj\Debug\net6.0-windows\HaloFitness.AssemblyInfo.cs
+C:\Users\naren\source\repos\HaloFitness\obj\Debug\net6.0-windows\HaloFitness.csproj.CoreCompileInputs.cache
+C:\Users\naren\source\repos\HaloFitness\obj\Debug\net6.0-windows\HaloFitness.dll
+C:\Users\naren\source\repos\HaloFitness\obj\Debug\net6.0-windows\refint\HaloFitness.dll
+C:\Users\naren\source\repos\HaloFitness\obj\Debug\net6.0-windows\HaloFitness.pdb
+C:\Users\naren\source\repos\HaloFitness\obj\Debug\net6.0-windows\HaloFitness.genruntimeconfig.cache
+C:\Users\naren\source\repos\HaloFitness\obj\Debug\net6.0-windows\ref\HaloFitness.dll
