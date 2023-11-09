@@ -1,0 +1,17 @@
+C:\Users\naren\source\repos\Invest4u\bin\Debug\net6.0-windows\Invest4u.exe
+C:\Users\naren\source\repos\Invest4u\bin\Debug\net6.0-windows\Invest4u.deps.json
+C:\Users\naren\source\repos\Invest4u\bin\Debug\net6.0-windows\Invest4u.runtimeconfig.json
+C:\Users\naren\source\repos\Invest4u\bin\Debug\net6.0-windows\Invest4u.dll
+C:\Users\naren\source\repos\Invest4u\bin\Debug\net6.0-windows\Invest4u.pdb
+C:\Users\naren\source\repos\Invest4u\obj\Debug\net6.0-windows\Invest4u.Form1.resources
+C:\Users\naren\source\repos\Invest4u\obj\Debug\net6.0-windows\Invest4u.Properties.Resources.resources
+C:\Users\naren\source\repos\Invest4u\obj\Debug\net6.0-windows\Invest4u.csproj.GenerateResource.cache
+C:\Users\naren\source\repos\Invest4u\obj\Debug\net6.0-windows\Invest4u.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\naren\source\repos\Invest4u\obj\Debug\net6.0-windows\Invest4u.AssemblyInfoInputs.cache
+C:\Users\naren\source\repos\Invest4u\obj\Debug\net6.0-windows\Invest4u.AssemblyInfo.cs
+C:\Users\naren\source\repos\Invest4u\obj\Debug\net6.0-windows\Invest4u.csproj.CoreCompileInputs.cache
+C:\Users\naren\source\repos\Invest4u\obj\Debug\net6.0-windows\Invest4u.dll
+C:\Users\naren\source\repos\Invest4u\obj\Debug\net6.0-windows\refint\Invest4u.dll
+C:\Users\naren\source\repos\Invest4u\obj\Debug\net6.0-windows\Invest4u.pdb
+C:\Users\naren\source\repos\Invest4u\obj\Debug\net6.0-windows\Invest4u.genruntimeconfig.cache
+C:\Users\naren\source\repos\Invest4u\obj\Debug\net6.0-windows\ref\Invest4u.dll
