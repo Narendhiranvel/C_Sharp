@@ -1,0 +1,5 @@
+Strawberry: 175
+Apple: 300
+Watermelon: 75
+ 
+Total: 550
