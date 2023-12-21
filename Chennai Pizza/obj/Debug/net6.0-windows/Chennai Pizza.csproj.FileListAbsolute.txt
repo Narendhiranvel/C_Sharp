@@ -1,0 +1,18 @@
+C:\Users\naren\source\repos\Chennai Pizza\bin\Debug\net6.0-windows\Chennai Pizza.exe
+C:\Users\naren\source\repos\Chennai Pizza\bin\Debug\net6.0-windows\Chennai Pizza.deps.json
+C:\Users\naren\source\repos\Chennai Pizza\bin\Debug\net6.0-windows\Chennai Pizza.runtimeconfig.json
+C:\Users\naren\source\repos\Chennai Pizza\bin\Debug\net6.0-windows\Chennai Pizza.dll
+C:\Users\naren\source\repos\Chennai Pizza\bin\Debug\net6.0-windows\Chennai Pizza.pdb
+C:\Users\naren\source\repos\Chennai Pizza\obj\Debug\net6.0-windows\Chennai_Pizza.Form1.resources
+C:\Users\naren\source\repos\Chennai Pizza\obj\Debug\net6.0-windows\Chennai_Pizza.Properties.Resources.resources
+C:\Users\naren\source\repos\Chennai Pizza\obj\Debug\net6.0-windows\Chennai Pizza.csproj.GenerateResource.cache
+C:\Users\naren\source\repos\Chennai Pizza\obj\Debug\net6.0-windows\Chennai Pizza.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\naren\source\repos\Chennai Pizza\obj\Debug\net6.0-windows\Chennai Pizza.AssemblyInfoInputs.cache
+C:\Users\naren\source\repos\Chennai Pizza\obj\Debug\net6.0-windows\Chennai Pizza.AssemblyInfo.cs
+C:\Users\naren\source\repos\Chennai Pizza\obj\Debug\net6.0-windows\Chennai Pizza.csproj.CoreCompileInputs.cache
+C:\Users\naren\source\repos\Chennai Pizza\obj\Debug\net6.0-windows\Chennai Pizza.dll
+C:\Users\naren\source\repos\Chennai Pizza\obj\Debug\net6.0-windows\refint\Chennai Pizza.dll
+C:\Users\naren\source\repos\Chennai Pizza\obj\Debug\net6.0-windows\Chennai Pizza.pdb
+C:\Users\naren\source\repos\Chennai Pizza\obj\Debug\net6.0-windows\Chennai Pizza.genruntimeconfig.cache
+C:\Users\naren\source\repos\Chennai Pizza\obj\Debug\net6.0-windows\ref\Chennai Pizza.dll
+C:\Users\naren\source\repos\Chennai Pizza\obj\Debug\net6.0-windows\Chennai_Pizza.Form2.resources
